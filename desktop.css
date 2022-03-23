@@ -62,6 +62,9 @@ header img{
 main section h2 {
     font-size: 3.2rem;
 }
+main section:last-child section {
+    text-align: center;
+}
 .picture{
     margin: 0;
 }
