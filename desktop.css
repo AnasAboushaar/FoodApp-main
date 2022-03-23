@@ -68,6 +68,9 @@ main section:last-child section {
 .picture{
     margin: 0;
 }
+footer{
+    padding: 35px 0 ;
+}
 footer div{
 display: flex;
 align-items: center;
