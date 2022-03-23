@@ -38,7 +38,7 @@ width: 10%;
 }
 /*
 *Header
-* Le selecteur avane ">" permet de dire : 
+*Le selecteur avane ">" permet de dire : 
 *"prends le premier element juste en dessous du parent"
 */
 header , main section:first-child > div,
